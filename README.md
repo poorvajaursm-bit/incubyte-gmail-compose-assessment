@@ -1,2 +1,2 @@
 # incubyte-gmail-compose-assessment
-Gmail Compose Function Manual Testing Assignment for Incubyte.
+Gmail Compose Function Manual Testing Assessment for Incubyte.
